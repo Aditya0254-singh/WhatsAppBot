@@ -139,11 +139,11 @@ Then configure the generated public URL as your webhook endpoint in Meta’s dev
 ## 👨‍💻 Author
 Aditya Singh
 
-- [📧Email] (adityasinghgzp609@gmail.com)
+- [📧Email](adityasinghgzp609@gmail.com)
 
-- [💼 LinkedIn] (https://www.linkedin.com/in/aditya-singh-baa980257/)
+- [💼 LinkedIn](https://www.linkedin.com/in/aditya-singh-baa980257/)
 
-- [🌐 GitHub] (https://github.com/Aditya0254-singh)
+- [🌐 GitHub](https://github.com/Aditya0254-singh)
 
 ---
 
