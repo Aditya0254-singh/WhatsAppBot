@@ -75,6 +75,7 @@ java -jar target/WhatsAppBot.jar`
 ## 📡 Webhook Example
 
 Verification Request
+
 `bash
 GET /webhook?hub.mode=subscribe&hub.verify_token=YOUR_TOKEN&hub.challenge=12345`
 
@@ -147,7 +148,7 @@ Aditya Singh
 
 ---
 
-<p align="center">⭐ If you found this project useful, please consider giving it a star!</p> ```
+<p align="center">⭐ If you found this project useful, please consider giving it a star!</p>
 
 ---
 
